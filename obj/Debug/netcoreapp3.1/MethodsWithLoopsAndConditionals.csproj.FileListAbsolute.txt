@@ -1,0 +1,5 @@
+C:\Users\ihaba\Desktop\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.csproj.AssemblyReference.cache
+C:\Users\ihaba\Desktop\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihaba\Desktop\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.AssemblyInfoInputs.cache
+C:\Users\ihaba\Desktop\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.AssemblyInfo.cs
+C:\Users\ihaba\Desktop\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.csproj.CoreCompileInputs.cache
